@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript
-- 📫 How to reach me IG:qannashvili
+- 📫 How to reach me IN:qannashvili
 
 <!---
 Myudro33/Myudro33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
