@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nika
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me IN:qannashvili
 
