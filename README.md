@@ -44,7 +44,7 @@
 
 ###
 
-<img width='100%' src='https://github.com/myudro33/myudro33/blob/output/github-contribution-grid-snake.gif' />
-![snake gif](https://github.com/myudro33/myudro33/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/myudro33/myudro33/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
