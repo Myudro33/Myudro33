@@ -1,9 +1,7 @@
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-###
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Myudro33" height="150" alt="languages graph"  />
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myudro33)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myudro33&show_icons=true&count_private=true&locale=en&layout=compact" alt="myudro33" /></p>
